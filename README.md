@@ -23,3 +23,11 @@
 O notebook deverá ser hospedado em um repositório no github, sendo a entrega feita a partir do link correspondente.
 
 **Apresentação do projeto:** Na última aula do módulo (27/10) acontecerão as apresentações do projeto. Apesar de uma parte da avaliação do projeto consistir na análise do notebook, os integrantes também serão avaliados pela sua capacidade de comunicação e síntese dos resultados. Cada grupo terá até 15 min para sua apresentação. O formato é livre, ou seja: não é necessário criar qualquer tipo de apresentação mais formal (embora seja uma possibilidade, caso o grupo prefira).
+
+## Instruções para execução do Jupyter Notebook
+
+Dataset Kaggle utilizado: [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 'Kaggle')
+
+Para o uso com Jupyter Notebook ou Google Colaboratory, utilize o JSON referente a Public API de sua conta Kaggle. Leia mais em [Public API](https://www.kaggle.com/docs/api 'Kaggle').
+
+Execute as células em sequência para melhor compreensão dos dados exibidos.
